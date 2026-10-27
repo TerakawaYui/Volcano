@@ -1,0 +1,91 @@
+{
+  "schema_version": 6,
+  "proposals": {
+    "seed": 20261016,
+    "tile_size": 128,
+    "overlap": 64,
+    "proposal_sigma": 0.65,
+    "fragment_sigma": 1.2,
+    "fragment_closing_px": 2,
+    "threshold_levels": 12,
+    "threshold_upper": 0.92,
+    "area_min": 30,
+    "area_max": 3200,
+    "radius_min": 4.2,
+    "radius_max": 32.0,
+    "min_solidity": 0.5,
+    "max_eccentricity": 0.94,
+    "min_contrast": 0.12,
+    "dedup_radius_ratio": 2.5,
+    "dedup_center_factor": 0.55,
+    "reference_beam_px": 3.6363583471151304,
+    "scale_with_beam": true
+  },
+  "joint": {
+    "context_size": 384,
+    "search_size": 128,
+    "stride": 96,
+    "mesh": 64,
+    "proposal_floor": 2.5,
+    "radii": [
+      2.7,
+      3.3,
+      3.9,
+      4.5,
+      5.2,
+      6.0,
+      7.0,
+      8.0,
+      9.5,
+      11.0,
+      13.0,
+      15.5,
+      18.5,
+      22.0,
+      26.5,
+      32.0
+    ],
+    "max_coarse": 96,
+    "max_refine": 16,
+    "geometry_nfev": 18,
+    "arc_nfev": 10,
+    "weak_snr": 6.5,
+    "high_snr": 8.0,
+    "weak_arc_beams": 1.8,
+    "high_arc_beams": 2.5,
+    "weak_flat_max": 0.15,
+    "weak_clump_max": 0.3,
+    "high_flat_max": -0.02,
+    "high_clump_max": 0.02,
+    "high_background_shift_max": 2.5,
+    "full_ring": {
+      "max_per_window": 2,
+      "min_original_fraction": 0.65,
+      "min_original_weak_fraction": 0.35,
+      "min_original_cavity": 1.0,
+      "min_cv_disk_gain": 0.1
+    }
+  },
+  "wall": {
+    "weak": {
+      "fraction": 0.35,
+      "run_beams": 2.2,
+      "peak": 2.5,
+      "inner_drop": 0.5,
+      "outer_drop": 1.0,
+      "retention": 0.25,
+      "sagitta_beams": 0.15,
+      "context_contrast": 2.5
+    },
+    "high": {
+      "fraction": 0.65,
+      "run_beams": 3.5,
+      "peak": 3.0,
+      "inner_drop": 1.0,
+      "outer_drop": 1.5,
+      "retention": 0.5,
+      "sagitta_beams": 0.35,
+      "context_contrast": 4.0
+    }
+  }
+}

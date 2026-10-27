@@ -1,0 +1,1112 @@
+{
+  "CGPS\\CGPS_MA1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 52.31490463904139,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 61.31670894960979,
+    "beam_field_corner_range_arcsec": [
+      51.63338968243343,
+      53.13293249190246
+    ]
+  },
+  "CGPS\\CGPS_MA2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 51.42157060689596,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 65.23488440293175,
+    "beam_field_corner_range_arcsec": [
+      50.85162569392146,
+      52.11739325902061
+    ]
+  },
+  "CGPS\\CGPS_MB1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 52.191942340617196,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 61.814710586151506,
+    "beam_field_corner_range_arcsec": [
+      51.594146116520264,
+      52.91900496602788
+    ]
+  },
+  "CGPS\\CGPS_MB2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 51.3049279237095,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 65.80644815552122,
+    "beam_field_corner_range_arcsec": [
+      50.81462554506428,
+      51.91522398730625
+    ]
+  },
+  "CGPS\\CGPS_MC1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 52.19770186040079,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 61.79112527640204,
+    "beam_field_corner_range_arcsec": [
+      51.592599155945415,
+      52.9326607985402
+    ]
+  },
+  "CGPS\\CGPS_MC2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 51.3103919798005,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 65.7793030922335,
+    "beam_field_corner_range_arcsec": [
+      50.81312759610536,
+      51.928124646411504
+    ]
+  },
+  "CGPS\\CGPS_MD1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 52.33228313104103,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 61.24724309631298,
+    "beam_field_corner_range_arcsec": [
+      51.642987280094545,
+      53.15881841359919
+    ]
+  },
+  "CGPS\\CGPS_MD2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 51.43805332066832,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 65.15542104918165,
+    "beam_field_corner_range_arcsec": [
+      50.86072708236042,
+      52.14185203708674
+    ]
+  },
+  "CGPS\\CGPS_ME1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 52.59803486511867,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 60.21169731376841,
+    "beam_field_corner_range_arcsec": [
+      51.8184085603736,
+      53.523961732593804
+    ]
+  },
+  "CGPS\\CGPS_ME2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 51.690039197640665,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 63.977898020315,
+    "beam_field_corner_range_arcsec": [
+      51.027212841269325,
+      52.48680871161895
+    ]
+  },
+  "CGPS\\CGPS_ME3_1420_MHz_I_image.fits": {
+    "beam_arcsec": 50.83415337131951,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 68.30108919462761,
+    "beam_field_corner_range_arcsec": [
+      50.31043355778694,
+      51.47937614279791
+    ]
+  },
+  "CGPS\\CGPS_ME4_1420_MHz_I_image.fits": {
+    "beam_arcsec": 50.247356057571025,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 71.98352511672684,
+    "beam_field_corner_range_arcsec": [
+      49.81775915073932,
+      50.79128050437862
+    ]
+  },
+  "CGPS\\CGPS_ME5_1420_MHz_I_image.fits": {
+    "beam_arcsec": 49.79914852701813,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 75.50343581966465,
+    "beam_field_corner_range_arcsec": [
+      49.45687223886586,
+      50.2501969535198
+    ]
+  },
+  "CGPS\\CGPS_MEJ1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 76.7765070007014,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 24.03657605840017,
+    "beam_field_corner_range_arcsec": [
+      72.06937928907885,
+      82.7361667739392
+    ]
+  },
+  "CGPS\\CGPS_MEJ2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 73.98492208403923,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 26.01697803162774,
+    "beam_field_corner_range_arcsec": [
+      69.8432589833037,
+      79.14284565821404
+    ]
+  },
+  "CGPS\\CGPS_MEK1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 82.65878965518407,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 20.57357933270707,
+    "beam_field_corner_range_arcsec": [
+      76.74741732347015,
+      90.40158608164879
+    ]
+  },
+  "CGPS\\CGPS_MEK2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 79.19770409649847,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 22.506958568261076,
+    "beam_field_corner_range_arcsec": [
+      74.05499628214164,
+      85.78565299317344
+    ]
+  },
+  "CGPS\\CGPS_MEL1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 90.40816734017535,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 17.082554595348242,
+    "beam_field_corner_range_arcsec": [
+      82.69915696571489,
+      101.02300016743862
+    ]
+  },
+  "CGPS\\CGPS_MEL2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 85.92458626462805,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 18.977997422846205,
+    "beam_field_corner_range_arcsec": [
+      79.33252342414384,
+      94.7190295830305
+    ]
+  },
+  "CGPS\\CGPS_MEQ1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 89.61286281672041,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 17.396735069720105,
+    "beam_field_corner_range_arcsec": [
+      82.09965083430316,
+      99.90237448776993
+    ]
+  },
+  "CGPS\\CGPS_MEQ2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 85.2417968282487,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 19.29522313926948,
+    "beam_field_corner_range_arcsec": [
+      78.80516478392546,
+      93.79180134139101
+    ]
+  },
+  "CGPS\\CGPS_MER1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 82.0664183879289,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 20.885487813064017,
+    "beam_field_corner_range_arcsec": [
+      76.28247007104166,
+      89.61526432753912
+    ]
+  },
+  "CGPS\\CGPS_MER2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 78.67684951046856,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 22.822698226704876,
+    "beam_field_corner_range_arcsec": [
+      73.63887189178323,
+      85.11161928427735
+    ]
+  },
+  "CGPS\\CGPS_MES1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 76.3168949776136,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 24.345664534352316,
+    "beam_field_corner_range_arcsec": [
+      71.69822794724786,
+      82.14993854709256
+    ]
+  },
+  "CGPS\\CGPS_MES2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 73.57388315554617,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 26.330750388449694,
+    "beam_field_corner_range_arcsec": [
+      69.50679202358835,
+      78.62831870124661
+    ]
+  },
+  "CGPS\\CGPS_MET1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 71.78513688571968,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 27.770594782587448,
+    "beam_field_corner_range_arcsec": [
+      67.99670371360644,
+      76.45877625304975
+    ]
+  },
+  "CGPS\\CGPS_MET2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 69.4927809794611,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 29.813538991841185,
+    "beam_field_corner_range_arcsec": [
+      66.13286928836281,
+      73.58675875948771
+    ]
+  },
+  "CGPS\\CGPS_MEU1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 68.126838553158,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 31.152367932619416,
+    "beam_field_corner_range_arcsec": [
+      64.95549548965857,
+      71.97260886376017
+    ]
+  },
+  "CGPS\\CGPS_MEU2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 66.16188725801763,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 33.26414652833133,
+    "beam_field_corner_range_arcsec": [
+      63.336676981624365,
+      69.55491267698763
+    ]
+  },
+  "CGPS\\CGPS_MEV1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 65.1229816321022,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 34.481471315334545,
+    "beam_field_corner_range_arcsec": [
+      62.42589412782621,
+      68.35228866468962
+    ]
+  },
+  "CGPS\\CGPS_MEV2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 63.403435945826914,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 36.67421936690779,
+    "beam_field_corner_range_arcsec": [
+      60.99483423169746,
+      66.26558752140922
+    ]
+  },
+  "CGPS\\CGPS_MEW1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 62.62694974377002,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 37.74632865510599,
+    "beam_field_corner_range_arcsec": [
+      60.30441432522576,
+      65.38173473386381
+    ]
+  },
+  "CGPS\\CGPS_MEW2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 61.095770081260454,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 40.03349331286558,
+    "beam_field_corner_range_arcsec": [
+      59.019928242391316,
+      63.54369585642162
+    ]
+  },
+  "CGPS\\CGPS_MEX1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 60.53664285787124,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 40.9327121275819,
+    "beam_field_corner_range_arcsec": [
+      58.51675040559304,
+      62.916144104639436
+    ]
+  },
+  "CGPS\\CGPS_MEX2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 59.15266365378161,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 43.32916185662004,
+    "beam_field_corner_range_arcsec": [
+      57.34827223540058,
+      61.2693056662871
+    ]
+  },
+  "CGPS\\CGPS_MEY1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 58.77873176567033,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 44.02300069683194,
+    "beam_field_corner_range_arcsec": [
+      57.008223200595936,
+      60.85461964614507
+    ]
+  },
+  "CGPS\\CGPS_MEY2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 57.51129428827896,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 46.54503318883691,
+    "beam_field_corner_range_arcsec": [
+      55.9324353279288,
+      59.35737362609777
+    ]
+  },
+  "CGPS\\CGPS_MEZ1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 57.29926922965343,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 46.995265169093244,
+    "beam_field_corner_range_arcsec": [
+      55.737832483603405,
+      59.124686621244564
+    ]
+  },
+  "CGPS\\CGPS_MEZ2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 56.124896251001864,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 49.660412461788276,
+    "beam_field_corner_range_arcsec": [
+      54.736496402043805,
+      57.745937782241576
+    ]
+  },
+  "CGPS\\CGPS_MF1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 52.999672242112,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 58.733578776729495,
+    "beam_field_corner_range_arcsec": [
+      52.12184850562554,
+      54.03488469589487
+    ]
+  },
+  "CGPS\\CGPS_MF2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 52.07061521550736,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 62.31768494982339,
+    "beam_field_corner_range_arcsec": [
+      51.31529126887725,
+      52.96910839453698
+    ]
+  },
+  "CGPS\\CGPS_MF3_1420_MHz_I_image.fits": {
+    "beam_arcsec": 51.145208233178955,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 66.61698066057393,
+    "beam_field_corner_range_arcsec": [
+      50.536309936934515,
+      51.882639222377705
+    ]
+  },
+  "CGPS\\CGPS_MF4_1420_MHz_I_image.fits": {
+    "beam_arcsec": 50.544366245054086,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 70.0220632513821,
+    "beam_field_corner_range_arcsec": [
+      50.03289777598453,
+      51.17598923351306
+    ]
+  },
+  "CGPS\\CGPS_MF5_1420_MHz_I_image.fits": {
+    "beam_arcsec": 50.0835718726455,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 73.17583966652124,
+    "beam_field_corner_range_arcsec": [
+      49.66193225833384,
+      50.618776774067726
+    ]
+  },
+  "CGPS\\CGPS_MG1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 53.544519200125904,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 56.872469822510226,
+    "beam_field_corner_range_arcsec": [
+      52.55857470769626,
+      54.70143738384324
+    ]
+  },
+  "CGPS\\CGPS_MG2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 52.58639412160082,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 60.25604552670105,
+    "beam_field_corner_range_arcsec": [
+      51.7297345975764,
+      53.59759306837553
+    ]
+  },
+  "CGPS\\CGPS_MG3_1420_MHz_I_image.fits": {
+    "beam_arcsec": 51.58169568593595,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 64.47586137677216,
+    "beam_field_corner_range_arcsec": [
+      50.88039209915436,
+      52.42028598661243
+    ]
+  },
+  "CGPS\\CGPS_MG4_1420_MHz_I_image.fits": {
+    "beam_arcsec": 50.96083412205367,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 67.59698009909876,
+    "beam_field_corner_range_arcsec": [
+      50.36093855921635,
+      51.688242928632576
+    ]
+  },
+  "CGPS\\CGPS_MG5_1420_MHz_I_image.fits": {
+    "beam_arcsec": 50.48210491881702,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 70.41477413400949,
+    "beam_field_corner_range_arcsec": [
+      49.975104969416904,
+      51.10884275976163
+    ]
+  },
+  "CGPS\\CGPS_MH1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 54.24290063089537,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 54.689375393612316,
+    "beam_field_corner_range_arcsec": [
+      53.136402549009816,
+      55.537091003894226
+    ]
+  },
+  "CGPS\\CGPS_MH2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 53.246672490083576,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 57.870844953537,
+    "beam_field_corner_range_arcsec": [
+      52.27761017530343,
+      54.384313977825265
+    ]
+  },
+  "CGPS\\CGPS_MH3_1420_MHz_I_image.fits": {
+    "beam_arcsec": 52.150990191456735,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 61.983162399137356,
+    "beam_field_corner_range_arcsec": [
+      51.348204355294264,
+      53.1019300545521
+    ]
+  },
+  "CGPS\\CGPS_MH4_1420_MHz_I_image.fits": {
+    "beam_arcsec": 51.50346719940882,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 64.84311980806274,
+    "beam_field_corner_range_arcsec": [
+      50.80690600414466,
+      52.33676311381471
+    ]
+  },
+  "CGPS\\CGPS_MH5_1420_MHz_I_image.fits": {
+    "beam_arcsec": 51.00086596258415,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 67.37987095461123,
+    "beam_field_corner_range_arcsec": [
+      50.40096418756179,
+      51.728342969933266
+    ]
+  },
+  "CGPS\\CGPS_MIJ1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 55.10872770881796,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 52.2406947557806,
+    "beam_field_corner_range_arcsec": [
+      53.86610782690334,
+      56.55976570950106
+    ]
+  },
+  "CGPS\\CGPS_MIJ2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 54.06393054706743,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 55.22940938049861,
+    "beam_field_corner_range_arcsec": [
+      52.968635130226275,
+      55.34523180433608
+    ]
+  },
+  "CGPS\\CGPS_MK1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 56.16034576101943,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 49.575341564840066,
+    "beam_field_corner_range_arcsec": [
+      54.762031345343644,
+      57.7930290098491
+    ]
+  },
+  "CGPS\\CGPS_MK2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 55.05455124719749,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 52.386594106397624,
+    "beam_field_corner_range_arcsec": [
+      53.8156931785681,
+      56.50122198970606
+    ]
+  },
+  "CGPS\\CGPS_ML1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 57.42175469767013,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 46.73410254291402,
+    "beam_field_corner_range_arcsec": [
+      55.84294678101098,
+      59.26783770474404
+    ]
+  },
+  "CGPS\\CGPS_ML2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 56.23984660321662,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 49.38567593621374,
+    "beam_field_corner_range_arcsec": [
+      54.83557124509686,
+      57.87952146229529
+    ]
+  },
+  "CGPS\\CGPS_MM1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 58.92437802056278,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 43.75022253601745,
+    "beam_field_corner_range_arcsec": [
+      57.13330419169967,
+      61.02510628209866
+    ]
+  },
+  "CGPS\\CGPS_MM2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 57.647530265189,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 46.26029336178505,
+    "beam_field_corner_range_arcsec": [
+      56.0500057814818,
+      59.51583637353619
+    ]
+  },
+  "CGPS\\CGPS_MN1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 60.70966814905633,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 40.6504887537476,
+    "beam_field_corner_range_arcsec": [
+      58.66502854708647,
+      63.11957828415836
+    ]
+  },
+  "CGPS\\CGPS_MN2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 59.31386015061363,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 43.036494362258495,
+    "beam_field_corner_range_arcsec": [
+      57.48718039848059,
+      61.457474230672005
+    ]
+  },
+  "CGPS\\CGPS_MO1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 62.83303279497645,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 37.456401976322844,
+    "beam_field_corner_range_arcsec": [
+      60.480166390982475,
+      65.62583327389501
+    ]
+  },
+  "CGPS\\CGPS_MO2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 61.28682150896452,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 39.734515802031126,
+    "beam_field_corner_range_arcsec": [
+      59.183902666951816,
+      63.768122378345474
+    ]
+  },
+  "CGPS\\CGPS_MP1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 65.36993018364771,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 34.18524410454432,
+    "beam_field_corner_range_arcsec": [
+      62.63487466261029,
+      68.6479510201805
+    ]
+  },
+  "CGPS\\CGPS_MP2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 63.63098487315391,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 36.37020469784997,
+    "beam_field_corner_range_arcsec": [
+      61.188837261492694,
+      66.53538195481934
+    ]
+  },
+  "CGPS\\CGPS_MQ1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 68.42568461239412,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 30.85097726235403,
+    "beam_field_corner_range_arcsec": [
+      65.20561665943629,
+      72.33576814936897
+    ]
+  },
+  "CGPS\\CGPS_MQ2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 66.43517176228825,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 32.95610862836938,
+    "beam_field_corner_range_arcsec": [
+      63.56744202186554,
+      69.88313515848793
+    ]
+  },
+  "CGPS\\CGPS_MR1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 72.15202062792996,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 27.464970660912016,
+    "beam_field_corner_range_arcsec": [
+      68.2991504567854,
+      76.91377451783323
+    ]
+  },
+  "CGPS\\CGPS_MR2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 69.82505399316479,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 29.50229727431552,
+    "beam_field_corner_range_arcsec": [
+      66.40976276098343,
+      73.99287696489415
+    ]
+  },
+  "CGPS\\CGPS_MST1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 56.05783868281708,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 49.822187389196,
+    "beam_field_corner_range_arcsec": [
+      54.67441663939459,
+      57.67304767013626
+    ]
+  },
+  "CGPS\\CGPS_MST2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 54.95808919899743,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 52.648648551772375,
+    "beam_field_corner_range_arcsec": [
+      53.73292691913221,
+      56.38889616284783
+    ]
+  },
+  "CGPS\\CGPS_MU1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 55.02377390714448,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 52.469886521164504,
+    "beam_field_corner_range_arcsec": [
+      53.7940984127106,
+      56.459815863142765
+    ]
+  },
+  "CGPS\\CGPS_MU2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 53.98380925932704,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 55.47532419317708,
+    "beam_field_corner_range_arcsec": [
+      52.90048760990939,
+      55.251411698362894
+    ]
+  },
+  "CGPS\\CGPS_MV1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 54.17364475634727,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 54.89685863347117,
+    "beam_field_corner_range_arcsec": [
+      53.07854599454543,
+      55.45478728579028
+    ]
+  },
+  "CGPS\\CGPS_MV2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 53.1812388495959,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 58.09619637711628,
+    "beam_field_corner_range_arcsec": [
+      52.22277901931127,
+      54.30689239470288
+    ]
+  },
+  "CGPS\\CGPS_MW1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 53.48954700623649,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 57.05346686952784,
+    "beam_field_corner_range_arcsec": [
+      52.51376929434624,
+      54.63496253774938
+    ]
+  },
+  "CGPS\\CGPS_MW2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 52.53438168482455,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 60.455300870405566,
+    "beam_field_corner_range_arcsec": [
+      51.68722779957143,
+      53.53495500695648
+    ]
+  },
+  "CGPS\\CGPS_MX1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 52.957921311334594,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 58.88273956404207,
+    "beam_field_corner_range_arcsec": [
+      52.08927953120391,
+      53.98286304143431
+    ]
+  },
+  "CGPS\\CGPS_MX2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 52.03106874828139,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 62.48422732795926,
+    "beam_field_corner_range_arcsec": [
+      51.28437289429351,
+      52.92002532255207
+    ]
+  },
+  "CGPS\\CGPS_MY1_1420_MHz_I_image.fits": {
+    "beam_arcsec": 52.56873264007074,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 60.32350257090448,
+    "beam_field_corner_range_arcsec": [
+      51.79750430501643,
+      53.48537173341501
+    ]
+  },
+  "CGPS\\CGPS_MY2_1420_MHz_I_image.fits": {
+    "beam_arcsec": 51.66226189977322,
+    "source": "https://cdsarc.cds.unistra.fr/viz-bin/ReadMe/J/AJ/153/113?format=html&tex=true",
+    "quality": "published_model_centre_approximation",
+    "notes": "Published 49 x 49 cosec(dec) arcsec beam circularized at image centre. Spatial variation and anisotropic PSF are not modeled by this stable baseline.",
+    "beam_formula": "49 arcsec / sqrt(sin(ICRS declination))",
+    "beam_centre_declination_deg": 64.10441905620878,
+    "beam_field_corner_range_arcsec": [
+      51.007365258408875,
+      52.45036485251635
+    ]
+  },
+  "GLOSTAR\\GLOSTAR-VE-Res-iGP-I.fits": {
+    "beam_arcsec": 18.0,
+    "source": "Local compact-source Gaussian fits; see GLOSTAR_紧致源波束估计.json; 18 arcsec nominal consistent with GLOSTAR D resolution",
+    "quality": "empirical_18_arcsec_nominal",
+    "notes": "BUNIT and exact VE-Res/VE-Un processing semantics are unavailable; infer intensity morphology from filename I and compact-source behavior. No absolute flux comparison. Beam estimate is not a restored missing header.",
+    "empirical_modal_arcsec": 18.162442951967854,
+    "empirical_modal_sources": 16
+  },
+  "GLOSTAR\\GLOSTAR-VE-Un-iGP-I.fits": {
+    "beam_arcsec": 18.0,
+    "source": "Local compact-source Gaussian fits; see GLOSTAR_紧致源波束估计.json; 18 arcsec nominal consistent with GLOSTAR D resolution",
+    "quality": "empirical_18_arcsec_nominal",
+    "notes": "BUNIT and exact VE-Res/VE-Un processing semantics are unavailable; infer intensity morphology from filename I and compact-source behavior. No absolute flux comparison. Beam estimate is not a restored missing header.",
+    "empirical_modal_arcsec": 18.20464168521103,
+    "empirical_modal_sources": 14
+  },
+  "GLOSTAR\\GLOSTAR_D-I_358-60.fits": {
+    "beam_arcsec": 18.0,
+    "source": "https://doi.org/10.1051/0004-6361/202449885",
+    "quality": "published_D_and_empirical_crosscheck",
+    "notes": "BUNIT and exact VE-Res/VE-Un processing semantics are unavailable; infer intensity morphology from filename I and compact-source behavior. No absolute flux comparison. Beam estimate is not a restored missing header.",
+    "empirical_modal_arcsec": 18.16371275341031,
+    "empirical_modal_sources": 28
+  },
+  "MOS\\MOS_017_cont.Tb.fits": {
+    "beam_arcsec": 60.0,
+    "source": "https://arxiv.org/abs/astro-ph/0605422",
+    "quality": "published_product",
+    "notes": "VGPS continuum: filename cont.Tb plus HISTORY identify product; singleton velocity axis is retained at index zero."
+  },
+  "MOS\\MOS_021_cont.Tb.fits": {
+    "beam_arcsec": 60.0,
+    "source": "https://arxiv.org/abs/astro-ph/0605422",
+    "quality": "published_product",
+    "notes": "VGPS continuum: filename cont.Tb plus HISTORY identify product; singleton velocity axis is retained at index zero."
+  },
+  "MOS\\MOS_025_cont.Tb.fits": {
+    "beam_arcsec": 60.0,
+    "source": "https://arxiv.org/abs/astro-ph/0605422",
+    "quality": "published_product",
+    "notes": "VGPS continuum: filename cont.Tb plus HISTORY identify product; singleton velocity axis is retained at index zero."
+  },
+  "MOS\\MOS_029_cont.Tb.fits": {
+    "beam_arcsec": 60.0,
+    "source": "https://arxiv.org/abs/astro-ph/0605422",
+    "quality": "published_product",
+    "notes": "VGPS continuum: filename cont.Tb plus HISTORY identify product; singleton velocity axis is retained at index zero."
+  },
+  "MOS\\MOS_033_cont.Tb.fits": {
+    "beam_arcsec": 60.0,
+    "source": "https://arxiv.org/abs/astro-ph/0605422",
+    "quality": "published_product",
+    "notes": "VGPS continuum: filename cont.Tb plus HISTORY identify product; singleton velocity axis is retained at index zero."
+  },
+  "MOS\\MOS_037_cont.Tb.fits": {
+    "beam_arcsec": 60.0,
+    "source": "https://arxiv.org/abs/astro-ph/0605422",
+    "quality": "published_product",
+    "notes": "VGPS continuum: filename cont.Tb plus HISTORY identify product; singleton velocity axis is retained at index zero."
+  },
+  "MOS\\MOS_041_cont.Tb.fits": {
+    "beam_arcsec": 60.0,
+    "source": "https://arxiv.org/abs/astro-ph/0605422",
+    "quality": "published_product",
+    "notes": "VGPS continuum: filename cont.Tb plus HISTORY identify product; singleton velocity axis is retained at index zero."
+  },
+  "MOS\\MOS_045_cont.Tb.fits": {
+    "beam_arcsec": 60.0,
+    "source": "https://arxiv.org/abs/astro-ph/0605422",
+    "quality": "published_product",
+    "notes": "VGPS continuum: filename cont.Tb plus HISTORY identify product; singleton velocity axis is retained at index zero."
+  },
+  "MOS\\MOS_049_cont.Tb.fits": {
+    "beam_arcsec": 60.0,
+    "source": "https://arxiv.org/abs/astro-ph/0605422",
+    "quality": "published_product",
+    "notes": "VGPS continuum: filename cont.Tb plus HISTORY identify product; singleton velocity axis is retained at index zero."
+  },
+  "MOS\\MOS_053_cont.Tb.fits": {
+    "beam_arcsec": 60.0,
+    "source": "https://arxiv.org/abs/astro-ph/0605422",
+    "quality": "published_product",
+    "notes": "VGPS continuum: filename cont.Tb plus HISTORY identify product; singleton velocity axis is retained at index zero."
+  },
+  "MOS\\MOS_057_cont.Tb.fits": {
+    "beam_arcsec": 60.0,
+    "source": "https://arxiv.org/abs/astro-ph/0605422",
+    "quality": "published_product",
+    "notes": "VGPS continuum: filename cont.Tb plus HISTORY identify product; singleton velocity axis is retained at index zero."
+  },
+  "MOS\\MOS_061_cont.Tb.fits": {
+    "beam_arcsec": 60.0,
+    "source": "https://arxiv.org/abs/astro-ph/0605422",
+    "quality": "published_product",
+    "notes": "VGPS continuum: filename cont.Tb plus HISTORY identify product; singleton velocity axis is retained at index zero."
+  },
+  "MOS\\MOS_065_cont.Tb.fits": {
+    "beam_arcsec": 60.0,
+    "source": "https://arxiv.org/abs/astro-ph/0605422",
+    "quality": "published_product",
+    "notes": "VGPS continuum: filename cont.Tb plus HISTORY identify product; singleton velocity axis is retained at index zero."
+  }
+}
